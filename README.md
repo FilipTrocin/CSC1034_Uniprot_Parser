@@ -1,7 +1,8 @@
-CSC1034: Practical 2
+Overview
 ====================
+I have realised that project as a part of my univeristy course in the first year as an introduction to biocomputing.
 
-This package allows you analyse proteins sequences from Uniprot and count the 
+This package allows you analyse proteins sequences from uniprot.org and count the 
 average number of a single protein. Moreover, it can produce a bar chart and 
 pie chart using matplotlib.
 
