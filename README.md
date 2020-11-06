@@ -1,4 +1,4 @@
-Overview
+OVERVIEW
 ====================
 I have realised that project as a part of my univeristy course in the first year as an introduction to biocomputing.
 
